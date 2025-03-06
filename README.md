@@ -1,2 +1,0 @@
-# Odoo-Project
-Project Odoo
